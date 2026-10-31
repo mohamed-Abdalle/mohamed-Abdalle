@@ -1,126 +1,148 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B20,50:24205B,100:087E8B&text=MOHAMED%20ABDALLE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20DIGITAL%20INNOVATOR&descAlignY=60&descSize=15&animation=fadeIn"/>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:172554,70:1D4ED8,100:06B6D4&height=220&section=header&text=MOHAMED%20ABDALLE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20DIGITAL%20INNOVATOR&descSize=16&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=55E6D1&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Building+Scalable+Digital+Products;Websites+%7C+Apps+%7C+Management+Systems;Turning+Ideas+Into+Technology"/>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;Building+Modern+Web+Applications;Creating+Scalable+Digital+Solutions;Turning+Ideas+Into+Reality"/>
 
 <br/>
 
+<img src="https://img.shields.io/badge/Developer-Software%20Engineer-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0891B2?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mohamed-Abdalle&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
 <a href="https://github.com/mohamed-Abdalle">
-<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Software%20Development-7047EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Somalia-087E8B?style=for-the-badge"/>
+<a href="https://www.mareegsoftwares.net">
+<img src="https://img.shields.io/badge/Portfolio-Mareeg%20Softwares-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+<!-- ABOUT ME -->
+
+<h2 align="center">👨‍💻 ABOUT ME</h2>
+
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-name: Mohamed Abdalle
-role: Software Developer
-company: Mareeg Softwares
-location: Somalia
+Name: Mohamed Abdalle
+Role: Software Developer
+Company: Mareeg Softwares
+Location: Somalia
 
-stack:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Git & GitHub
+Interests:
+  - Full-Stack Development
+  - Web Applications
+  - Software Engineering
+  - UI/UX Design
+  - Business Management Systems
 
-approach:
-  - Problem solving
-  - Clean code
-  - User-focused design
-  - Continuous learning
-
-mission: >
-  Building useful digital products
-  that solve real-world problems.
+Goals:
+  - Build scalable applications
+  - Write clean and maintainable code
+  - Create useful digital products
+  - Continuously improve my skills
 ```
 
-<div align="center">
-
-| 💻 Engineering | 🎨 Design | 📊 Data & Systems |
-|:---:|:---:|:---:|
-| Web applications | UI/UX Design | Management systems |
-| Frontend development | Responsive layouts | Business solutions |
-| Backend fundamentals | Modern interfaces | Digital workflows |
-
-</div>
+<br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+<!-- TECH STACK -->
 
-<div align="center">
+<h2 align="center">⚡ TECHNOLOGIES & TOOLS</h2>
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+<h3 align="center">Frontend Development</h3>
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,python,php&theme=dark" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark"/>
+</p>
 
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode&theme=dark" />
+<h3 align="center">Backend Development</h3>
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,python,php&theme=dark"/>
+</p>
+
+<h3 align="center">Database & Development Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode&theme=dark"/>
+</p>
 
 ---
 
-## 🚀 Featured Work
+<!-- FEATURED PROJECTS -->
 
-<div align="center">
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x280/11152D/55E6D1?text=HAWLBOARD"/>
+<h3 align="center">📋 HawlBoard</h3>
 
-### 📋 HawlBoard
+<p align="center">
+<img src="https://img.shields.io/badge/Project-Management-2563EB?style=flat-square"/>
+</p>
 
-A task and project management platform designed to organize workflows.
+A modern task and project management system.
 
-**Key Features**
-- Drag & Drop task management
-- Board and column organization
+**Features**
+- Drag & Drop functionality
+- Board management
+- Task organization
 - LocalStorage persistence
-- Task workflow management
 
-<a href="https://github.com/mohamed-Abdalle/HawlBoard">View Repository →</a>
+<p align="center">
+<a href="https://github.com/mohamed-Abdalle/HawlBoard">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x280/11152D/9B82FF?text=DALABPLUS"/>
+<h3 align="center">🍽️ DalabPlus</h3>
 
-### 🍽️ DalabPlus
+<p align="center">
+<img src="https://img.shields.io/badge/Hotel%20%26%20Restaurant-Management-0891B2?style=flat-square"/>
+</p>
 
-Hotel, restaurant and coffee shop management solution.
+An integrated hotel and restaurant management system.
 
-**Key Features**
+**Features**
 - QR Digital Menu
-- Table and room ordering
-- Inventory management
-- Sales and accounting
+- Online Food Ordering
+- Hotel Management
+- Inventory & Accounting
 
-**Status:** In Development
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-yellow?style=for-the-badge"/>
+</p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x280/11152D/55E6D1?text=MAREEG+SOFTWARES"/>
+<h3 align="center">💼 Mareeg Softwares</h3>
 
-### 💼 Mareeg Softwares
+<p align="center">
+<img src="https://img.shields.io/badge/Digital-Solutions-7C3AED?style=flat-square"/>
+</p>
 
-A software company delivering modern digital solutions.
+A digital solutions company focused on modern software and technology services.
 
 **Services**
 - Website Development
@@ -129,67 +151,85 @@ A software company delivering modern digital solutions.
 - UI/UX Design
 - E-commerce Solutions
 
-<a href="https://www.mareegsoftwares.net">Visit Website →</a>
+<p align="center">
+<a href="https://www.mareegsoftwares.net">
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-7C3AED?style=for-the-badge&logo=googlechrome"/>
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x280/11152D/9B82FF?text=FUTURE+PROJECTS"/>
+<h3 align="center">🌐 Future Projects</h3>
 
-### 🌐 Future Projects
+<p align="center">
+<img src="https://img.shields.io/badge/Innovation-Technology-0891B2?style=flat-square"/>
+</p>
 
-Continuously exploring and developing new digital products.
+Exploring and developing innovative digital products.
 
 **Focus**
-- Web Applications
-- SaaS Platforms
+- SaaS Applications
 - Business Automation
-- Innovative Software
+- Web Platforms
+- AI-Powered Solutions
+
+<p align="center">
+<img src="https://img.shields.io/badge/COMING-SOON-2563EB?style=for-the-badge"/>
+</p>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🔄 How I Work
+<!-- DEVELOPMENT WORKFLOW -->
+
+<h2 align="center">🔄 MY DEVELOPMENT WORKFLOW</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center">
 <h2>🔍</h2>
-<b>01. Discover</b>
+<b>01. DISCOVER</b>
 <br/>
 <sub>Understand the problem</sub>
 </td>
-<td align="center" width="20%">
+<td align="center">➜</td>
+<td align="center">
 <h2>🎨</h2>
-<b>02. Design</b>
+<b>02. DESIGN</b>
 <br/>
 <sub>Plan the experience</sub>
 </td>
-<td align="center" width="20%">
-<h2>⚙️</h2>
-<b>03. Build</b>
+<td align="center">➜</td>
+<td align="center">
+<h2>💻</h2>
+<b>03. BUILD</b>
 <br/>
 <sub>Develop the solution</sub>
 </td>
-<td align="center" width="20%">
+</tr>
+<tr>
+<td align="center">
 <h2>🚀</h2>
-<b>04. Deploy</b>
+<b>04. DEPLOY</b>
 <br/>
 <sub>Launch the product</sub>
 </td>
-<td align="center" width="20%">
+<td align="center">➜</td>
+<td align="center">
 <h2>📈</h2>
-<b>05. Improve</b>
+<b>05. IMPROVE</b>
 <br/>
 <sub>Scale and optimize</sub>
 </td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -197,70 +237,80 @@ Continuously exploring and developing new digital products.
 
 ---
 
-## 📊 GitHub Analytics
+<!-- GITHUB STATISTICS -->
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamed-Abdalle&show_icons=true&hide_border=true&bg_color=080B20&title_color=55E6D1&icon_color=9B82FF&text_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamed-Abdalle&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-Abdalle&layout=compact&hide_border=true&bg_color=080B20&title_color=55E6D1&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-Abdalle&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mohamed-Abdalle&hide_border=true&background=080B20&ring=55E6D1&fire=9B82FF&currStreakLabel=55E6D1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=mohamed-Abdalle&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- CONTRIBUTION GRAPH -->
+
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-Abdalle&bg_color=080B20&color=55E6D1&line=8066FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Development%20Journey"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-Abdalle&bg_color=020617&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+<!-- SNAKE ANIMATION -->
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohamed-Abdalle/mohamed-Abdalle/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
+<!-- CONTACT -->
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
 
 <div align="center">
 
 <a href="https://github.com/mohamed-Abdalle">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="mailto:INFO@MAREEGSOFTWARES.NET">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.mareegsoftwares.net">
-<img src="https://img.shields.io/badge/Portfolio-087E8B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💡 Building Ideas Into Reality
+### 💡 BUILDING IDEAS INTO REALITY
 
-**Code. Create. Innovate.**
+**Code • Create • Innovate • Repeat**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together."/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087E8B,50:24205B,100:080B20&height=120&section=footer"/>
+<!-- FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer"/>
 
 </div>
-## Hi there 👋
-
-<!--
-**mohamed-Abdalle/mohamed-Abdalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
