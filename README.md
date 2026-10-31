@@ -1,3 +1,4 @@
 <div align="center">
-  <img src="./assets/github-profile.png" width="100%" />
+  <img src="./assets/Mohamed Abdalle Neon Developer Portfolio Dashboard.png
+    " width="100%" />
 </div>
